@@ -9,3 +9,5 @@ The goal is to empty your cards before the opponent.
 A clicked card with a 2 means two cards will be added to the opponent's card collection.
 A clicked card with a 14 means a card will be added to the opponent's card collection.
 A clicked card with a 1 means you get the chance to play twice before the opponent.
+--
+![Screenshot 2024-01-05 230158](https://github.com/aekimena/Naija-whot-game/assets/129546723/b61d2ae3-8119-4ee9-8bce-7e69262c45d7)
